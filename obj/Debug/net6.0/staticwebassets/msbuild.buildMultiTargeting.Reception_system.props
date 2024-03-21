@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Reception_system.props" />
+</Project>
